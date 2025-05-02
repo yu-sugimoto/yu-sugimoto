@@ -1,16 +1,20 @@
-## Hi there 👋
+# Backend Developer in Japan👋
+### Just 22 years old 
+### Graduate Student in Information Science（M1）
+#
 
-<!--
-**yu-sugimoto/yu-sugimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Skill
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,php,go,html,css,js,typescript,swift" />
+
+## Frameworks / Libraries
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,laravel,react,vue,jquery" />
+
+## Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" />
+
+## Infrastructure / DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
