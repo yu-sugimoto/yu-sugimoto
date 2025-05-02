@@ -6,7 +6,7 @@ In my free time, I love participating in hackathons and building projects that s
 # My Skill
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,php,go,html,css,js,swift" />
+<img src="https://skillicons.dev/icons?i=python,java,php,go,html,css,js,typescript,swift" />
 
 ## Frameworks / Libraries
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,laravel,react,vue,jquery" />
