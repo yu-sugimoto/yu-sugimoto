@@ -1,6 +1,6 @@
 # Backend Developer in Japan👋
 ### Just 22 years old 
-### Graduate Student in Information Science（M1）
+### Graduate Student（M1） in Information Science
 #
 
 
