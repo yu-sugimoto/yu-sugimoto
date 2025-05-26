@@ -3,6 +3,8 @@ I'm Yu Sugimoto — a backend developer and a graduate student in Information Sc
 I'm currently conducting research on nursing care records and have a strong interest in development and data science.
 In my free time, I love participating in hackathons and building projects that solve real-world problems.
 
+I recently started using Qiita → https://qiita.com/yu-sugimoto
+
 # My Skill
 
 ## Programming Languages
