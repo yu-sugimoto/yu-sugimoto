@@ -3,18 +3,16 @@ I'm Yu Sugimoto — a backend developer and a graduate student in Information Sc
 I'm currently conducting research on nursing care records and have a strong interest in development and data science.
 In my free time, I love participating in hackathons and building projects that solve real-world problems.
 
-I recently started using Qiita → https://qiita.com/yu-sugimoto
-
 # My Skill
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,php,go,html,css,js,typescript,swift" />
+<img src="https://skillicons.dev/icons?i=python,java,php,go,ruby,html,css,js,typescript,swift&perline=7" />
 
 ## Frameworks / Libraries
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,laravel,react,vue,jquery" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,laravel,rails,react,vue,jquery&perline=7" />
 
 ## Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,kafka&perline=7"/>
 
 ## Infrastructure / DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,jenkins&perline=7" />
