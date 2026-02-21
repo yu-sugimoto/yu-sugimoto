@@ -5,4 +5,4 @@ In my free time, I love participating in hackathons and building projects that s
 
 # Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,php,go,ruby,html,css,js,typescript,swift,fastapi,django,flask,spring,laravel,rails,react,vue,jquery,postgres,mysql,redis,firebase,kafka,aws,docker,kubernetes,nginx,githubactions,jenkins" />
+<img src="https://skillicons.dev/icons?i=python,java,php,go,ruby,html,css,js,typescript,swift,fastapi,django,flask,spring,laravel,rails,react,vue,jquery,postgres,mysql,redis,firebase,kafka,aws,docker,kubernetes,nginx,githubactions,jenkins&perline=10" />
