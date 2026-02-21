@@ -6,13 +6,13 @@ In my free time, I love participating in hackathons and building projects that s
 # My Skill
 
 ## Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,php,go,ruby,html,css,js,typescript,swift&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,php,go,ruby,html,css,js,typescript,swift&perline=6" />
 
 ## Frameworks / Libraries
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,laravel,rails,react,vue,jquery&perline=7" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,laravel,rails,react,vue,jquery&perline=6" />
 
 ## Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,kafka&perline=7"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase,kafka&perline=6"/>
 
 ## Infrastructure / DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,jenkins&perline=7" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,jenkins&perline=6" />
